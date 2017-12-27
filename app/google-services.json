@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "862347108015",
+    "firebase_url": "https://teacherassistant-e142e.firebaseio.com",
+    "project_id": "teacherassistant-e142e",
+    "storage_bucket": "teacherassistant-e142e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862347108015:android:eb0a8f1cd9bfb4a1",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.teacherassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862347108015-pmlmb30b2ehn68b5jofpps658fhde4qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delaroystudios.teacherassistant",
+            "certificate_hash": "33c3118b92d519c648e4568b87af3c351c338db1"
+          }
+        },
+        {
+          "client_id": "862347108015-slmjfskml2ffl6is8mqsh5turfn4eeun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CxmLlU2k9r2f_YM4r5VH3iVHLuXMVtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862347108015-slmjfskml2ffl6is8mqsh5turfn4eeun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

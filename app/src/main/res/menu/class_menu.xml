@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mlp.arv.projectx.test.modulex.Main2Activity">
+    <item
+        android:id="@+id/edit_class_menu"
+        android:orderInCategory="100"
+        android:title="Edit Class"
+        app:showAsAction="never" />
+</menu>
